@@ -1,0 +1,42 @@
+background {
+  color: white;
+}
+
+font {
+  font-family: 'B612 Mono', monospace;
+  font-size: 60px;
+  color: black;
+}
+
+div.box{
+  background: #81b29a;
+  border: 6px solid #C74734;
+  padding: 2vmax;
+  margin-left: 2vmax;
+  margin-right: 2vmax;
+  width: 88%;
+  height: 550px;
+  opacity: 0.85;
+}
+
+body {
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: 'Gowun Batang', serif;
+  position: relative;
+  top: -48px;
+  color: black;
+  size: 20px;
+}
+
+h2 {
+  font-family: 'Gowun Batang', serif;
+  color: black;
+  
+
+p {
+  font-family: 'Gowun Batang', serif;
+  color: black;
+}
